@@ -1,7 +1,6 @@
-# README
+# TRAVEL APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Updated travel frontend with views working
 
 Things you may want to cover:
 
